@@ -291,7 +291,3 @@ ol {
 .more-button {
   width: 100%;
 }
-
-.more-button:focus-visible {
-  border: 1px solid #fff;
-}
